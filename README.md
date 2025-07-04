@@ -7,4 +7,4 @@ This repository contains scripts, disk images, and general information for turni
 This repository also contains information on reverse engineering the device image format to allow uploading custom firmware and drive images.
 
 Currently, this repository contains an 8 GB disk image that can be flashed to a USB drive to turn it into an imager. A creation/formatting script is in the works, but has a few more kinks to iron out beforehand.
-The existing disk image comes with a device image on it "WTOS_TX0D_4096_999" which contains a wloader bootloader and Debian disk image for the Wyse 3020 thin client based upon the work in this forum thread (https://forum.doozan.com/read.php?2,134563)
+The existing disk image comes with a device image on it "WTOS_TX0D_4096_555" which contains a wloader bootloader and Debian disk image for the Wyse 3020 thin client based upon the work in this forum thread (https://forum.doozan.com/read.php?2,134563)
