@@ -1,0 +1,19 @@
+[VERSION]
+Number=
+Description= 
+OS=
+Category=
+USE_PXE=
+command=
+BootFloppy=
+ImageType=
+USE_REMOTE=
+ImageSize=
+ImageVersion=
+
+<product>=
+
+
+[Script]
+QU "3" "120"
+RB
